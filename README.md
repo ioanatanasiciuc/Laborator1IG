@@ -1,5 +1,5 @@
 # Laborator1IG
 
-grupa : B1
-Tanasiciuc Ioana 
+grupa : B1<br/>
+Tanasiciuc Ioana<br/> 
 Hritcu Ema
